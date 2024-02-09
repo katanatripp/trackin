@@ -1,12 +1,22 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Minehut",
+		"ip": "minehut.com",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "ReverseMines",
+		"ip": "reversemines.minehut.gg",
+		"type": "PC"
+	},
+	{
+		"name": "Zyptrik",
+		"ip": "zyptrik.minehut.gg",
+		"type": "PC"
+	},
+	{
+		"name": "bot server",
+		"ip": "clickerfy.minehut.gg",
 		"type": "PC"
 	}
 ]
